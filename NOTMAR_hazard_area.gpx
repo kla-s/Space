@@ -1,0 +1,37 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<gpx version="1.1" creator="YourTool" xmlns="http://www.topografix.com/GPX/1/1">
+  <metadata>
+    <name>NOTMAR: Hazard Area</name>
+  </metadata>
+  <trk>
+    <name>NOTMAR: Hazard Area</name>
+    <trkseg>
+      <trkpt lat="25.58" lon="-97.12"/>
+      <trkpt lat="26.01" lon="-97.11"/>
+      <trkpt lat="26.05" lon="-97.08"/>
+      <trkpt lat="26.07" lon="-97.04"/>
+      <trkpt lat="26.10" lon="-96.56"/>
+      <trkpt lat="26.16" lon="-96.46"/>
+      <trkpt lat="26.23" lon="-96.39"/>
+      <trkpt lat="26.26" lon="-96.35"/>
+      <trkpt lat="26.34" lon="-96.25"/>
+      <trkpt lat="26.38" lon="-96.13"/>
+      <trkpt lat="26.46" lon="-92.46"/>
+      <trkpt lat="26.01" lon="-92.27"/>
+      <trkpt lat="25.35" lon="-88.35"/>
+      <trkpt lat="24.37" lon="-83.29"/>
+      <trkpt lat="23.10" lon="-77.10"/>
+      <trkpt lat="22.49" lon="-76.18"/>
+      <trkpt lat="22.38" lon="-75.57"/>
+      <trkpt lat="23.07" lon="-78.57"/>
+      <trkpt lat="23.36" lon="-80.59"/>
+      <trkpt lat="24.29" lon="-85.22"/>
+      <trkpt lat="24.35" lon="-86.40"/>
+      <trkpt lat="25.16" lon="-91.55"/>
+      <trkpt lat="24.46" lon="-94.09"/>
+      <trkpt lat="24.45" lon="-95.51"/>
+      <trkpt lat="25.54" lon="-97.07"/>
+      <trkpt lat="25.58" lon="-97.12"/>
+    </trkseg>
+  </trk>
+</gpx>

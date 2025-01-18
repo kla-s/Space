@@ -1,0 +1,32 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<gpx version="1.1" creator="YourTool" xmlns="http://www.topografix.com/GPX/1/1">
+  <metadata>
+    <name>NOTAM ACFT OPS PROHIBITIED 0 to inf</name>
+  </metadata>
+  <trk>
+    <name>NOTAM ACFT OPS PROHIBITIED 0 to inf</name>
+    <trkseg>
+      <trkpt lat="25.93333" lon="-97.16667">
+        <name>BRO078011.3</name>
+      </trkpt>
+      <trkpt lat="26.00000" lon="-97.20000">
+        <name>BRO055010.5</name>
+      </trkpt>
+      <trkpt lat="26.08333" lon="-97.15000">
+        <name>BRO043015.5</name>
+      </trkpt>
+      <trkpt lat="26.23333" lon="-96.93333">
+        <name>BRO043030.2</name>
+      </trkpt>
+      <trkpt lat="26.00000" lon="-96.91667">
+        <name>BRO071025.2</name>
+      </trkpt>
+      <trkpt lat="26.00000" lon="-97.00000">
+        <name>BRO068020.8</name>
+      </trkpt>
+      <trkpt lat="25.93333" lon="-97.16667">
+        <name>BRO078011.3</name>
+      </trkpt>
+    </trkseg>
+  </trk>
+</gpx>
