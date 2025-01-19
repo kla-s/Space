@@ -3,6 +3,7 @@ Couldn't find a Map showing the NOTMAR and NOTAM SpaceX gave for [Starship Test 
 
 ![Map with NOTAM and NOTMAR for SpaceX Starship Test Flight 7](Map_NOTMAR_NOTAM_SpaceX_Starship_Test_Flight_7.png "Map with NOTAM and NOTMAR for SpaceX Starship Test Flight 7")
 
+Note that the air warning (NOTAM) area is significantly smaller than the sea warning (NOTMAR). Please correct me with an issue if you can find more NOTAMs. I used the FAA historic search but couldn't find more. 
 
 ## How to reproduce:
 1. Find https://www.navcen.uscg.gov/broadcast-notice-to-mariners-message?guid=63760020 and https://tfr.faa.gov/save_pages/detail_5_3363.html 
